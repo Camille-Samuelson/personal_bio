@@ -1,5 +1,13 @@
-h1{
-    justify-content: flex-end;
+.name{
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+#profile-image{
+    display: flex;
+    justify-content: flex-start;
+}
+h1{
+    justify-content: flex-end;
+    align-items: center;
 }
