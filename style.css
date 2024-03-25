@@ -49,3 +49,17 @@
     font-weight: 400;
     font-style: normal;
 }
+.cominfo{
+    position:absolute;
+    top:60vw;
+    width:18vw;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    color:rgb(255, 240, 240);
+    font-size:1.5vw;
+}
+.cominfo > .comheader{
+    padding:2vw 2vw 0vw 2.7vw;
+    font-size:1.5vw;
+}
