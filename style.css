@@ -16,6 +16,7 @@
 }
 .container1 h1{
     position:absolute;
+    width:61vw;
     left:50vw;
     top:8vw;
     font-size:7vw;
@@ -24,18 +25,27 @@
     color:rgb(255, 240, 240);
     flex-wrap: wrap;
     padding:0vw 0vw 0vw 2vw;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .power-tag{
     position:absolute;
     width:100vw;
     left:62vw;
-    top:28vw;
+    top:29vw;
     color:rgb(255, 240, 240);
     font-style:italic;
-    font-size:2vw;
+    font-size:2.5vw;
 }
 .blurb{
+    position:absolute;
     color:rgb(255, 240, 240);
     text-align: center;
-    font-size:2vw;
+    font-size:2.5vw;
+    width:61vw;
+    left:18vw;
+    font-family: "Mukta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
